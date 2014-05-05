@@ -6,15 +6,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Crud Simples em PHP</title>
 
-  <!-- Bootstrap -->
+  <!-- Bootstrap CDN
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+  -->
 
-
-  <!-- Optional theme -->
+  <!-- Optional theme
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+  -->
 
+  <!-- METRO DESIGN by cosmo bootswatch http://bootswatch.com/cosmo/ -->
+  <link href="metro/bootstrap.min.css" rel="stylesheet"/>
 
-
+  
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>

@@ -36,6 +36,8 @@ Os arquivos javascript e css da aplicação são incluidos através de seus resp
 
 Isso significa que, para que a aplicação funcione como um todo, é necessário estar conectado à Internet.
 
+Na nova versão do sistema incluímos um tema e adiiconamos os arquivos necessários para que o sistema funcione sem a necessidade de estar conectado à internet. Os arquivos CDN estão comentados.
+
 
 ## Banco de dados e tabelas
 
