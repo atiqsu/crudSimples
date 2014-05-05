@@ -35,7 +35,7 @@ if ($login && $senha){
 ?>
 
 <div class="col-md-4 col-md-offset-4">
-  <div class="panel panel-default">
+  <div class="panel panel-primary">
     <div class="panel-heading"><h3 class="panel-title"><strong>Login:</strong></h3></div>
     <div class="panel-body">
       <?php echo $erro?>
@@ -48,7 +48,7 @@ if ($login && $senha){
         <label for="exampleInputPassword1">Senha: <!--<a href="loginLostPassword.php">(esqueci a senha)</a>--></label>
         <input type="password" class="form-control" style="border-radius:0px" id="senha" name="senha" value="<?php echo $senha?>" placeholder="Digite sua senha">
       </div>
-      <input type="submit" class="btn btn-sm btn-default" id="submit" value="Entrar"></button>
+      <input type="submit" class="btn btn-sm btn-primary" id="submit" value="Entrar"></button>
     </form>
   </div>
 </div>
